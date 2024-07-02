@@ -53,13 +53,3 @@
     };
 };
 
-\ {  
-    behaviors {
-        qtab: q_tab {
-            compatible = "zmk,behavior-mod-morph";
-            #binding-cells = <0>;
-            bindings = <&kp Q>, <&kp TAB>;
-            mods = <(MOD_LALT)>;
-        };
-    };
-}
