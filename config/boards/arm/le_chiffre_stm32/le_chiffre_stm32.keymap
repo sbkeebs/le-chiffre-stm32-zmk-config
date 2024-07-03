@@ -48,7 +48,7 @@
        &kp ESC   &trans &trans     &trans       &trans       &trans        &trans    &trans    &trans  &kp SEMI
        &sk LCTRL &trans &trans     &kp C_VOL_UP &trans       &trans        &trans    &trans    &trans  &kp SQT
        &sk LSHFT &trans &trans     &kp C_VOL_DN &trans       &trans        &trans    &trans    &trans  &kp GRAVE
-                        &kp LSHFT  &kp LGUI     &trans       &kp LSHFT     &lrbkt  
+                                   &kp LGUI     &trans       &kp LSHFT     &lrbkt  
             >;
         };
 
