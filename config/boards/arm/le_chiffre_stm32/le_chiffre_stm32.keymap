@@ -24,6 +24,7 @@
                 , <&macro_tap &kp COMMA>
                 , <&macro_release &kp LSHFT>
                 , <&macro_press &kp N3>
+                , <&macro_release &kp N3>
                 ;
         };
         col3: colon_three {
@@ -34,6 +35,7 @@
                 , <&macro_tap &kp SEMI>
                 , <&macro_release &kp LSHFT>
                 , <&macro_press &kp N3>
+                , <&macro_release &kp N3>
                 ;
         };
     };
